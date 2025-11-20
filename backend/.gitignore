@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+.env
+.env.*
+*.env
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Uvicorn
+*.pid
+
+# Ngrok
+ngrok.log
