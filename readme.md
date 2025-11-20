@@ -15,6 +15,10 @@ This project demonstrates how to build a:
 
 This project showcases skills in Twilio integrations, Webhooks, FastAPI, asynchronous programming, SQLAlchemy ORM, PostgreSQL, and React development.
 
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Z1Lu0AqSrzE)
+
 ## 🧠 What This Project Does
 
 ✔️ Users send a WhatsApp message  
